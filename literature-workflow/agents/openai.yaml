@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研文献阅读工作流"
+  short_description: "12维中文精读与全部原文图表预览，确认后去重入库并更新文献总表"
+  default_prompt: "使用 $literature-workflow 分析我提供的论文，先给出12维预览并附全部原文图表，确认后再入库。"
